@@ -13,5 +13,10 @@
 
 ## 2. Set up your GitHub account.
 #### This will be used for submitting assignments and 
+
 ### Step 2.1
+Click the following link: https://github.com/join
+
+### Step 2.2
 Click the following link: https://classroom.github.com/a/aUEagvle
+
